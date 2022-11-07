@@ -1,4 +1,4 @@
-%作業繳交用，有把初始座標改成x方向，還沒給負責的學長確認
+
 close all; clear; clc;
 
 tb_up = xlsread('up_4D.xlsx');
